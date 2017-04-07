@@ -1,0 +1,19 @@
+{
+  "name": "plus.file.storage",
+  "version": "0.0.1",
+  "description": "easy file sotrage",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "file",
+    "storage",
+    "upload"
+  ],
+  "author": "eugene tsukanov",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
