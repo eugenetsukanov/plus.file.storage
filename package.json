@@ -1,6 +1,6 @@
 {
   "name": "plus.file.storage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "easy file sotrage",
   "main": "FileStore.js",
   "dependencies": {
